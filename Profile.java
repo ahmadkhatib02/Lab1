@@ -3,5 +3,6 @@ public class Profile{
 		System.out.println("Ahmad Al Khatib");
 		System.out.println("Computer Engineering");
 		System.out.println("1st year");
+		System.out.println("Likes reading, hiking and playing chess");
 	}
 }
